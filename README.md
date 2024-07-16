@@ -5,18 +5,18 @@ Welcome to my central repository for all my FreeCodeCamp projects! Here you can 
 ## Certifications and Projects
 
 ### Responsive Web Design Certification
-1. [Tribute Page](https://github.com/Abijith-Suresh/fcc-tribute-page)
-2. [Survey Form](https://github.com/Abijith-Suresh/fcc-survey-form)
-3. [Product Landing Page](https://github.com/Abijith-Suresh/fcc-product-landing)
-4. [Technical Documentation Page](https://github.com/Abijith-Suresh/fcc-tech-docs)
-5. [Personal Portfolio Webpage](https://github.com/Abijith-Suresh/fcc-portfolio-page)
+1. [Tribute Page](https://github.com/abijith-suresh/fcc-tribute-page)
+2. [Survey Form](https://github.com/abijith-suresh/fcc-survey-form)
+3. [Product Landing Page](https://github.com/abijith-suresh/fcc-product-landing)
+4. [Technical Documentation Page](https://github.com/abijith-suresh/fcc-tech-docs)
+5. [Personal Portfolio Webpage](https://github.com/abijith-suresh/fcc-portfolio-page)
 
 ### Data Analysis with Python Certification
-1. [Mean-Variance-Standard Deviation Calculator](https://github.com/Abijith-Suresh/fcc-mean-variance-calc)
-2. [Demographic Data Analyzer](https://github.com/Abijith-Suresh/fcc-demo-data-analyzer)
-3. [Medical Data Visualizer](https://github.com/Abijith-Suresh/fcc-med-data-viz)
-4. [Page View Time Series Visualizer](https://github.com/Abijith-Suresh/fcc-page-view-viz)
-5. [Sea Level Predictor](https://github.com/Abijith-Suresh/fcc-sea-level-predictor)
+1. [Mean-Variance-Standard Deviation Calculator](https://github.com/abijith-suresh/fcc-mean-variance-calc)
+2. [Demographic Data Analyzer](https://github.com/abijith-suresh/fcc-demo-data-analyzer)
+3. [Medical Data Visualizer](https://github.com/abijith-suresh/fcc-med-data-viz)
+4. [Page View Time Series Visualizer](https://github.com/abijith-suresh/fcc-page-view-viz)
+5. [Sea Level Predictor](https://github.com/abijith-suresh/fcc-sea-level-predictor)
 
 ### JavaScript Algorithms and Data Structures Certification (Ongoing)
 
